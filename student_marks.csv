@@ -1,0 +1,11 @@
+StudentID,Name,Class,Maths,Physics,Chemistry,English,Computer
+1,Arun,CSE-A,85,78,92,88,81
+2,Bala,CSE-A,65,70,68,72,66
+3,Charan,CSE-A,95,91,89,96,93
+4,Divya,CSE-B,45,52,48,55,50
+5,Eswar,CSE-B,76,82,79,74,80
+6,Farha,CSE-B,88,86,90,84,87
+7,Gokul,CSE-C,35,40,38,42,37
+8,Hari,CSE-C,91,89,94,90,92
+9,Indhu,CSE-C,58,62,60,57,61
+10,Jaya,CSE-A,72,75,78,70,74
